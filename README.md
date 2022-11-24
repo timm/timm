@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img align="right" width="250" src="https://api.time.com/wp-content/uploads/2017/04/kitchener.jpeg">
+
 I am a IEEE Fellow prof (full), CS, NCstate, USA.   
 You can reach me at timm@ieee.org
 
